@@ -32,7 +32,7 @@ public class YahooDeparse {
 
 
     public static void main(String[] args) throws ParserConfigurationException, IOException, SAXException {
-        writeToFile();
+     //   writeToFile();
         writeToConsole();
 
     }
